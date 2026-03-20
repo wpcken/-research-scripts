@@ -1,5 +1,5 @@
 # 測試用腳本：僅發送固定訊息至 Discord Webhook
-$webhook = "https://discord.com/api/webhooks/您的Webhook網址"  # 務必確認正確
+$webhook = "https://discord.com/api/webhooks/1472107208023081128/RfuzPLMYCYA8XXwTaMQUcWg_VU_TULRl6Lh_sJm1LJW-MyMEDh-ThCZW-_iH-ZD8B77K"  # 務必確認正確
 
 # 強制發送測試訊息（多次嘗試確保）
 $testContent = "腳本執行測試 - 時間: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') - 來自隱藏 PowerShell"
